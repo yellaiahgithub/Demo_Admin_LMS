@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'https://dev-backend.konamars.com'
+  apiUrl: 'http://13.235.128.91/'
   // apiUrl: 'https://lms-api.digital-lync.com'
 };
 
