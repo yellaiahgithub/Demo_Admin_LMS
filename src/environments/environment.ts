@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'http://13.235.128.91:8000/'
+  apiUrl: 'http://13.233.172.56:8000//'
   // apiUrl: 'https://lms-api.digital-lync.com'
 };
 
